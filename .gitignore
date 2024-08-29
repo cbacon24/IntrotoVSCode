@@ -1,0 +1,4 @@
+myvenv/
+
+
+#slash at end tells it to ignore all the subfolders and everything in that folder
