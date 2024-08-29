@@ -21,3 +21,5 @@ plt.show()
 #version control - everything related to your project (hdml, css, photos, videos)
 #source control - talking specifically about source code (only css and hdml)
 #only dealing with source control in vs code
+
+print ("Hello there!")
