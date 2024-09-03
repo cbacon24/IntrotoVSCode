@@ -24,5 +24,4 @@ plt.show()
 
 print ("Hello there!")
 
-print ("Hello again!")
 
